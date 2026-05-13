@@ -13,8 +13,10 @@
 
 <br/>
 
-> **Author:** Dr. Sarwan Singh, Scientist-D  
-> *Joint Director, NIELIT Deemed to be University, Main Campus Ropar*
+<img src="https://raw.githubusercontent.com/nielitropar/computer-vision/refs/heads/main/assets/Sarwan_Singh.JPG" width="130" style="border-radius: 50%;" alt="Dr. Sarwan Singh"/>
+
+**Dr. Sarwan Singh**, Scientist-D  
+*Joint Director, NIELIT Deemed to be University, Main Campus Ropar*
 
 <br/>
 
@@ -291,6 +293,17 @@ computer-vision/
 ---
 
 ## 🤝 Acknowledgments
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nielitropar/computer-vision/refs/heads/main/assets/Sarwan_Singh.JPG" width="150" alt="Dr. Sarwan Singh"/>
+
+**Dr. Sarwan Singh**, Scientist-D  
+*Joint Director, NIELIT Deemed to be University, Main Campus Ropar*
+
+</div>
+
+<br/>
 
 This repository was prepared and authored by **Dr. Sarwan Singh, Scientist-D**, and developed under the academic framework of **NIELIT Deemed to be University, Main Campus Ropar**.
 
