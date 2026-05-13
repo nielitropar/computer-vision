@@ -59,10 +59,10 @@ Techniques for adapting large pre-trained models to custom datasets and deployin
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
-To run these notebooks locally, you will need to have Python installed along with Jupyter Notebook or JupyterLab. We highly recommend using a virtual environment (e.g., `conda` or `venv`).
+All the notebooks are fully reproducible in [Google Colab](https://colab.research.google.com/) although to run these notebooks locally, you will need to have Python installed along with Jupyter Notebook or JupyterLab. We highly recommend using a virtual environment (e.g., `conda` or `venv`).
 
 ### Installation
 **1. Clone the repository to your local machine:**
@@ -89,8 +89,8 @@ jupyter notebook
 
 ---
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
-* Prepared and authored by **Dr. Sarwan Singh**
+* Prepared and authored by **Dr. Sarwan Singh, Scientist-`D`**
 * Developed under the academic framework of **NIELIT Deemed to be University, Main Campus Ropar**
 
