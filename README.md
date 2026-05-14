@@ -320,6 +320,6 @@ This repository is intended for **academic and educational use**. Please credit 
 <div align="center">
 
 Made with ❤️ for the Computer Vision & AI community  
-**NIELIT Deemed to be University, Main Campus Ropar**
+**NIELIT Deemed to be University, Main Campus Ropar, Punjab**
 
 </div>
